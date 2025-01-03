@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Champ</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">Backend Developer</h3>
 
-- 🔭 I’m currently working on Fujifilm Thailand **photo-booth**
+- 🔭 I’m currently working on Fujifilm Thailand 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
