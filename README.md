@@ -1,7 +1,42 @@
 <h1 align="center">Hi 👋, I'm Champ</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">🚀 Backend Developer | Passionate about Scalable Systems</h3>
 
-- 🔭 I’m currently working on Fujifilm Thailand 
+- 🎯 **Currently working at:** Fujifilm Thailand  
+- 🔭 **Tech Stack:** Backend Development, API Design, Database Optimization  
+- 🌱 **Currently learning:** Bun, ElysiaJS, Cloud & DevOps (AWS, GCP, Kubernetes)  
+- 💡 **Interested in:** System Architecture, High-Performance Computing, Distributed Systems  
+- 📫 **Reach me at:** natthaphong.thammabut@fujifilm.com  
+
+---
+
+### 🛠️ **Tech Stack & Tools**
+#### ⚡ Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![ElysiaJS](https://img.shields.io/badge/ElysiaJS-008080?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-20232A?style=for-the-badge)
+
+#### 🗄️ Database & Storage
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+#### ⚙️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+### 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=champ-backend&show_icons=true&theme=tokyonight" alt="Champ's GitHub Stats" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
